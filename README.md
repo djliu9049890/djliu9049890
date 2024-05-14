@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Liu</h1>
 <h3 align="center">A passionate software developer who graduated from Georgia Tech with a Bachelor’s in Computer Science and is currently pursuing a Master’s in Computer Science</h3>
-<div style="width: 100%; display: flex; justify-content: center">
-    <img style="width: 400px;" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<div style="text-align: center;">
+    <img style="display: block; margin: 0 auto;" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djliu9049890&label=Profile%20views&color=0e75b6&style=flat" alt="djliu9049890" /> </p>
 
 <h3 align="left">Connect with me:</h3>
