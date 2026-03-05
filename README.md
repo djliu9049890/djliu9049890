@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Liu</h1>
-<h3 align="center">A passionate software developer who graduated from Georgia Tech with a Bachelor’s in Computer Science and is currently pursuing a Master’s in Computer Science</h3>
+<h3 align="center">A passionate software developer who graduated from Georgia Tech with a Master's and Bachelor’s in Computer Science. Currently working at Chalk, previously at Amazon in the Supply Chain Optimization space.</h3>
 <p align="center">
     <img alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 </p>
